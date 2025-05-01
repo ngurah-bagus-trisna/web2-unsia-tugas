@@ -1,5 +1,10 @@
 # Tugas 1 Pemrograman Web II
 
+## Hasil
+
+<img width="1619" alt="image" src="https://github.com/user-attachments/assets/b895f341-ff10-4ccc-a7bc-8494dce5a29b" />
+
+
 Buatlah sebuah database dengan nama universitas, dimana database tersebut memiliki sebuah tabel dengan nama mahasiswa. Tabel mahasiswa memiliki field sebagai berikut:
 
 ```
